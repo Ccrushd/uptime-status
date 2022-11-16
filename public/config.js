@@ -2,12 +2,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: '匿名在线聊天',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'm793013708-8e8b0dad84f63a1887a1ba19',
   ],
 
     // 日志天数
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
+      text: '匿名在线聊天（点击注册，验证码记得查看垃圾箱）',
+      url: 'https://chat.homeroute.eu.org/'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'https://cbrblog.eu.org/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/cbr252522489/uptime-status'
     },
   ],
 };
